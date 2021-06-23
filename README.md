@@ -6,5 +6,5 @@
 ## Day 5 ML:[Heart Failure Prediction](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-5/Heart%20Failure%20Prediction.ipynb)
 ## Day 6 ML:['Goodbooks ’ Recommendation Engine Spark ALS](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day%206/Book_Recommendation_Spark_ALS.ipynb)
 ## Day 7 ML:[Pyspark Movie Recommendation System](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-7/Movie_recommendation_systems%20(1).ipynb)
-## Day 8 ML:[]()
+## Day 8 ML:[Bank Marketing Analysis (Machine Learning PySpark and MLlib)](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-8/Bank_Marketing_Analysis_Machine_Learning_PySpark_and_MLlib.ipynb)
 
