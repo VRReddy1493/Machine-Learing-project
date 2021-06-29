@@ -10,5 +10,5 @@
 #### Day 9:[Build Book Recommender System-sklearn](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-9/Build%20Book%20Recommender%20System.ipynb)
 #### Day 10:[Student Exam Performance Prediction With Different SVM Kernels](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-10/Student-Exam-Performance-Prediction-With-Different-SVM-Kernels-main/eda-prediction-of-student-performance-in-exams.ipynb)
 #### Day 11:[K-Means clustering using Pyspark](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-11/K-Means.ipynb)
-#### Day 12:[PMSM Motor Temperature Detection](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-11/K-Means.ipynb)
+#### Day 12:[Fetal Health Classification using SVM and Random Forest](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-12/Fetal_Health_Classification.ipynb)
 
