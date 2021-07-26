@@ -16,3 +16,5 @@
 #### Day 15:[Nearest Neighbor item based Collaborative Filtering](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-15/movie_recommendation_using_KNN.ipynb)
 #### Day 16:
 #### Day 17:[Content Based Movie Recommender using TF-IDF](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day-17/Content_Based_Movie_Recommender_using_TF_IDF.ipynb)
+#### Day 18:[Content Based Movie Recommender using TF-IDF](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day-17/Content_Based_Movie_Recommender_using_TF_IDF.ipynb)
+#### Day 19:[Linear Regression Model](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-19/liner%20regression.pdf)
