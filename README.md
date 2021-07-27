@@ -18,3 +18,4 @@
 #### Day 17:[Content Based Movie Recommender using TF-IDF](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day-17/Content_Based_Movie_Recommender_using_TF_IDF.ipynb)
 #### Day 18:[Content Based Movie Recommender using TF-IDF](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day-17/Content_Based_Movie_Recommender_using_TF_IDF.ipynb)
 #### Day 19:[Linear Regression Model](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-19/liner%20regression.pdf)
+#### Day 20:[Logistic Regression model](https://github.com/mrvmurali1991/Machine-Learning-Projects/blob/main/Day-20/Logistic%20Regression%20model.pdf)
